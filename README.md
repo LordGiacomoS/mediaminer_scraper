@@ -1,6 +1,6 @@
 
 # mediaminer_scraper
-A rudimentary scraping script for fanfiction posted on mediaminer.org that converts it into epub. Originally made to help out someone because I was bored.
+A rudimentary scraping script for fanfiction posted on mediaminer.org that converts it into epub. Originally made in the span of an afternoon to help out someone because I was bored.
 
 ## Usage
 This is written assuming the user knows next to nothing about Python, and so people who actually know what they are doing will probably be able to glance over it or just read the code.
